@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Zeroshot ETL 0.1",
+    "version": "0.1",
+    "description": "A simple scraper for Google Maps, built for Chrome. More browsers coming.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "map.png",
+      "48": "map.png",
+      "128": "map.png"
+    }
+}
