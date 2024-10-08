@@ -5,7 +5,7 @@
     "description": "A simple scraper for Google Maps, built for Chrome. More browsers coming.",
     "permissions": ["activeTab", "scripting"],
     "action": {
-      "default_popup": "popup.html"
+      "default_popup": "main.html"
     },
     "icons": {
       "16": "map.png",

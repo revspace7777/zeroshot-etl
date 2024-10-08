@@ -112,3 +112,28 @@ body {
     margin-top: 1.5em; /* Add margin to ensure space when container expands */
     transition: margin-top 0.5s ease; /* Smooth transition for margin */
   }
+
+  .tool-title {
+    
+    color: #ffffff; /* Bright white color */
+    
+    line-height: 1.5; /* Same line height as p */
+    text-transform: capitalize; /* Title Case */
+    
+  }
+
+  .tool-title a {
+    
+    color: #ffffff; /* Bright white color */
+    color: #808080; /* Grey color */
+    text-decoration: underline; /* Underline */
+    text-decoration-color: #ffffff; /* Thin white underline */
+  }
+
+  .tool-description {
+    
+    color: #ffffff; /* Bright white color */
+    
+    line-height: 1.5; /* Same line height as p */
+    font-style: italic; /* Italics for sentence case */
+  }
